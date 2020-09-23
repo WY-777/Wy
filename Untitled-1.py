@@ -1,5 +1,5 @@
 while True:
-    op = input('请输入序号')
+    op = input('请输入序号：')
     if op == '1':
         print('显示所有学生信息')
     elif op == '2':
@@ -14,4 +14,4 @@ while True:
         print('退出系统')
         break
     else:
-        print('')
+        print('输入序号有误，请重新输入')
