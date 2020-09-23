@@ -15,3 +15,4 @@ while True:
         break
     else:
         print('输入序号有误，请重新输入')
+        print('1111')
